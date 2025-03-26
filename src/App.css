@@ -1,0 +1,16 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.controls-container {
+  padding: 20px;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.chart-container {
+  flex: 1;
+  padding: 20px;
+}
